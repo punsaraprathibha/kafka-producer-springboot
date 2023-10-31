@@ -6,7 +6,7 @@ spring:
     producer:
       bootstrap-servers: localhost:9092
     template:
-      default-topic: myFirstTopic
+      default-topic: my-default-topic
 
 app:
   kafka:
