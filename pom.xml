@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.wiley.phoenix</groupId>
-	<artifactId>kafka-springboot</artifactId>
+	<artifactId>kafka-producer-springboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>kafka-springboot</name>
 	<description>kafka-springboot</description>
