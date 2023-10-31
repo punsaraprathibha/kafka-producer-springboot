@@ -11,8 +11,8 @@
 	<groupId>com.wiley.phoenix</groupId>
 	<artifactId>kafka-producer-springboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>kafka-springboot</name>
-	<description>kafka-springboot</description>
+	<name>kafka-producer-springboot</name>
+	<description>kafka-producer-springboot</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
